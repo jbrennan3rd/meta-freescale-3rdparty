@@ -7,7 +7,7 @@ PROVIDES = "u-boot"
 
 PV = "v2016.11+git${SRCPV}"
 
-SRCREV = ${AUTOREV}
+SRCREV = "imx7d-skynff"
 SRCBRANCH = "imx7d-skynff"
 SRC_URI = "git://github.com/jbrennan3rd/u-boot-fslc.git;branch=${SRCBRANCH}"
 
